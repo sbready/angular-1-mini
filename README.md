@@ -1,5 +1,3 @@
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
-
 # Project Summary
 
 In this project we'll create a basic Angular application from scratch. Getting used to structuring your Angular application is an important skill to get right. Many times as beginners the hardest part about Angular is figuring out where to put stuff. Hopefully this project will start you on the right path so you can correctly structure all your Angular projects in the future.
